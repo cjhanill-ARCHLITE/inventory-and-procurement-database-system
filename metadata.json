@@ -1,0 +1,8 @@
+{
+  "name": "Remix Inventory Procurement Database System (IPDS)",
+  "description": "Enterprise-grade inventory, supplier management, purchase requests, purchase orders, receiving, and stock movement database system with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
